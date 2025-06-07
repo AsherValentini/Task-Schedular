@@ -1,0 +1,3 @@
+/home/asher/cpp-projects/Task-Schedular/build/CMakeFiles/prog.dir
+/home/asher/cpp-projects/Task-Schedular/build/CMakeFiles/edit_cache.dir
+/home/asher/cpp-projects/Task-Schedular/build/CMakeFiles/rebuild_cache.dir
